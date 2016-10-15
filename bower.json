@@ -1,7 +1,7 @@
 {
   "name": "hookup",
   "description": "Angular directives for common CDN and external services",
-  "main": "./dist/hookup.min.js",
+  "main": "./dist/hookup.js",
   "authors": [
     "Austin Billings <austin@austinbillings.com>"
   ],
